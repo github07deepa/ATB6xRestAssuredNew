@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/vinod/IdeaProjects/ATB6xRestAssuredLearning/src/test/java/com/testingacademy/ex_RA01/Lab261.java"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.872">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequestNonBDDStyle"
+                time="13.200"
+                classname="com.testingacademy.ex_RA01.CRUD.Get.NonBDDStyle.Lab270">
+            </testcase>
+            <testcase
+                name="getRequestNonBDDStyle2"
+                time="0.672"
+                classname="com.testingacademy.ex_RA01.CRUD.Get.NonBDDStyle.Lab270">
+            </testcase>
+</testsuite>

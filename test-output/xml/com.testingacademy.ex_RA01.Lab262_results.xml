@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/vinod/IdeaProjects/ATB6xRestAssuredLearning/src/test/java/com/testingacademy/ex_RA01/Lab261.java"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.032">
+    <properties></properties>
+
+
+
+            <testcase
+                name="booking_id"
+                time="0.016"
+                classname="com.testingacademy.ex_RA01.Lab262">
+            </testcase>
+            <testcase
+                name="token"
+                time="0.016"
+                classname="com.testingacademy.ex_RA01.Lab262">
+            </testcase>
+</testsuite>

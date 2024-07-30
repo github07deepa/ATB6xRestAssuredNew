@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful Booker API test suite -CRUD">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/vinod/IdeaProjects/ATB6xRestAssuredLearning/src/test/java/com/testingacademy/ex_RA01/Lab261.java">
+<!--        <classes>-->
+<!--            <class name="com.testingacademy.ex_RA01.CRUD.Get.NonBDDStyle.Lab270"> </class>-->
+<!--            <class name="com.testingacademy.ex_RA01.CRUD.POST.Lab271"> </class>-->
+<!--        </classes>-->
+
+        <packages>
+            <package name="com.testingacademy.ex_RA01.CRUD"></package>
+        </packages>
+    </test>
+</suite>
